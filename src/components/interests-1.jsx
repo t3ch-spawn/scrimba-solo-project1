@@ -3,8 +3,9 @@ function Interests() {
     <div className="interests">
       <h4>Interests</h4>
       <p>
-        Food expert. Music scholar. Reader. Internet fanatic. Bacon buff.
-        Entrepreneur. Travel geek. Pop culture ninja. Coffee fanatic.
+        When I'm not buried in code, I'm either spending time with friends,
+        gaming or playing table-tennis. I like to go to the movies occasionally.
+        And sometimes I enjoy some solitude
       </p>
     </div>
   );
