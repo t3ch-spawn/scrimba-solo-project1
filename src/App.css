@@ -36,6 +36,7 @@ body {
   background-color: #1a1b21;
   border-radius: 10px;
   max-width: 320px;
+  overflow: hidden;
 }
 /* INFO SECTION (CONTAINING AVATAR, NAME, SOCIALS AND WEBSITE LINK) */
 .info {
@@ -47,7 +48,7 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 10px 0;
+  padding: 15px 0;
 }
 
 .info__details > *:not(:last-child) {
@@ -66,6 +67,7 @@ body {
 .info__name {
   font-size: 25px;
   color: white;
+  margin-top: 15px;
 }
 
 .info__link {

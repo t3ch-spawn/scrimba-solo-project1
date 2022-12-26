@@ -1,6 +1,5 @@
 import MailIcon from "../images/Mail.svg";
-import LinkedinIcon from "../images/linkedin.svg";
-import AvatarPic from "../images/Rectangle 90.png";
+import AvatarPic from "../images/Rectangle-90.jpg";
 
 function info_2() {
   return (
@@ -9,10 +8,10 @@ function info_2() {
         <img src={AvatarPic} alt="" />
       </div>
       <div className="info__details">
-        <h3 className="info__name">Laura Smith</h3>
+        <h3 className="info__name">Boluwatife Olusanya</h3>
         <p>Frontend Developer</p>
-        <a href="#" className="info__link">
-          laurasmith.website
+        <a href="https://github.com/gLitCH1904" className="info__link">
+          https://github.com/gLitCH1904
         </a>
       </div>
       <div className="info__buttons">
