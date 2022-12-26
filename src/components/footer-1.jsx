@@ -8,19 +8,25 @@ function Footer() {
     <div className="footer">
       <ul className="footer__list">
         <li className="footer__items">
-          <img src={TwitterIcon} alt="" />
+          <a href="https://twitter.com/t3ch_spawn?t=-chsN0uFiHaSVcKx_kBIIQ&s=09">
+            <img src={TwitterIcon} alt="" />
+          </a>
         </li>
         <li className="footer__items">
-          {" "}
-          <img src={FacebookIcon} alt="" />
+          <a href="">
+            {" "}
+            <img src={FacebookIcon} alt="" />
+          </a>
         </li>
         <li className="footer__items">
-          {" "}
-          <img src={InstagramIcon} alt="" />
+          <a href="https://www.instagram.com/t3ch_spawn/">
+            <img src={InstagramIcon} alt="" />
+          </a>
         </li>
         <li className="footer__items">
-          {" "}
-          <img src={GitHubIcon} alt="" />
+          <a href="https://github.com/gLitCH1904">
+            <img src={GitHubIcon} alt="" />
+          </a>
         </li>
       </ul>
     </div>

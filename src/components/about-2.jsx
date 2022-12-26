@@ -1,6 +1,6 @@
 function About_2() {
   return (
-    <div className="about">
+    <div className="about about--2">
       <h4>About</h4>
       <p>
         I am Industrial Engineering undergraduate and a frontend developer with

@@ -16,10 +16,18 @@ function info_1() {
         </a>
       </div>
       <div className="info__buttons">
-        <button className="info__buttons--email">
-          <img src={MailIcon} alt="" />
-          <p>Email</p>
-        </button>
+        <a
+          href="mailto: boluwatife1904@gmail.com"
+          className="info__buttons__link"
+        >
+          <button
+            className="info__buttons--email"
+            href="mailto: boluwatife1904@gmail.com"
+          >
+            <img src={MailIcon} alt="" />
+            <p>Email</p>
+          </button>
+        </a>
         <button className="info__buttons--linkedin">
           <img src={LinkedinIcon} alt="" />
           <p>LinkedIn</p>

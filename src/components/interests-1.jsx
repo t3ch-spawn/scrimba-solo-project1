@@ -1,6 +1,6 @@
 function Interests() {
   return (
-    <div className="interests">
+    <div className="interests ">
       <h4>Interests</h4>
       <p>
         When I'm not buried in code, I'm either spending time with friends,
