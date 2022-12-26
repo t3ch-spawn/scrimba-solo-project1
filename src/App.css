@@ -119,6 +119,7 @@ body {
 .info__buttons--email-2 {
   width: 80%;
   color: #374151;
+  background-color: white;
 }
 
 .info__buttons--linkedin {
